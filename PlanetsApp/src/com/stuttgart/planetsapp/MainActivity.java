@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
 	
 	ArrayList<String> planetNames = new ArrayList<>();
 	ArrayList<Integer> massArray = new ArrayList<>();
-	ArrayList<Integer> radiusArray = new ArrayList<>();
+	ArrayList<Integer> radiusArray = new ArrayList<>();//changed
 
 //	Button button1;
 	ProgressBar progressBar;
